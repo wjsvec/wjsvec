@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭I am studying for a master's degree at BUPT. :laughing:
+- 🔭 I am studying for a master's degree at BUPT. :laughing:
+- 🤔 With a general knowledge of Matlab, React and Python (NLP direction).
+- 🌱 I'm interested in open sorce project at present
 
 
